@@ -2,7 +2,7 @@
 
 <h4>Desarrollo</h4>
 
-Realize la busquedada de como convertir grados a c° a f°.
+Realize la busquedada de como convertir grados  c° a f°.
 Tambien busque como pedir un dato al usuario.
 
 
@@ -25,7 +25,7 @@ ingresar el numero de hora que trabaja un empleado para luego multiplicarlo por 
 
 Con estas practicas aprendi a como pedir datos al usuario.
 
-<h3>RESPUESTA A LA PREGUNTAS DEL CUESTIONARIO</h3>
+<h3>RESPUESTA A LAS PREGUNTAS DEL CUESTIONARIO</h3>
 
 <h5> 1.-¿Que comando de git se utilizan para clonar un repositorio a su computadora local?</h5> git clone
 
