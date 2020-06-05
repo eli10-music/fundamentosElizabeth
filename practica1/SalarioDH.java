@@ -19,6 +19,8 @@ public class SalarioDH {
          resultado=horas*p;
 
         System.out.println("su salario es:    "  +  resultado);
+
+        desktop.close();
        
     }
     

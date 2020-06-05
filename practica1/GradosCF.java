@@ -13,6 +13,8 @@ public class GradosCF {
         resultado=(c*1.8)+32;
         System.out.println("GRADOS FARENHEIT="+ resultado);
 
+        desktop.close();
+
 
     }
     
