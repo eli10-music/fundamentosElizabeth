@@ -9,6 +9,7 @@ public class DepocitarDinero {
         int numero;
         int clave=123;
         int respuesta;
+        double saldo;
         
         
 
@@ -38,6 +39,10 @@ public class DepocitarDinero {
             
             System.out.print("la clave es incorrecta");
     } 
+
+   
+
+
     }
     public static int despliegaMenu(){
         int r = 0;
@@ -68,10 +73,13 @@ public class DepocitarDinero {
     }
     public static int saldoactual(){
         int r=0;
-        int c=0;
+        double c=0;
         Scanner sc = new Scanner(System.in);
 
+        c=c+depocitarsaldo();
+
         System.out.println("saldo actual=    "+c);
+
         
 
       

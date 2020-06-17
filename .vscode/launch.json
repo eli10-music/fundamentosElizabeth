@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PromedioPositivo",
+            "request": "launch",
+            "mainClass": "PromedioPositivo",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Triangulo",
+            "request": "launch",
+            "mainClass": "Triangulo",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Calificacion<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "Calificacion",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cinco<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "Cinco",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Circulo<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "Circulo",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepocitarDinero<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "DepocitarDinero",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Distancia<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "Distancia",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ej3<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "Ej3",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ElMayor<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "ElMayor",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GradosCF<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "GradosCF",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumMayores<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "NumMayores",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumRomano<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "NumRomano",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumerosSuma<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "NumerosSuma",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Principal<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "Principal",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RetirarDinero<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "RetirarDinero",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SalarioDH<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "SalarioDH",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SolEcuacion<FUNDAMENTOSELI_8509a7d4>",
+            "request": "launch",
+            "mainClass": "SolEcuacion",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        }
+    ]
+}
