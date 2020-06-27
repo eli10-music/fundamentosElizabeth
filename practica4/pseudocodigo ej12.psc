@@ -3,24 +3,28 @@ Algoritmo Ej12
 	Definir numerosp Como Caracter
 	Definir n Como Entero
 	Definir suma Como Entero
+	
 	n <- 1
 	suma <- 0
 	np <- 1
-	numerosp=""
-	
+	numerosp <- ''
 	Mientras np<7 Hacer
-		Para x=1 Hasta n Con Paso 1 Hacer 
-			si n MOD x=0 
-				suma=suma+x;
-				
-			FinSi
-
-		FinPara
 		
-		si suma=n
-			np=np+1;
-			numerosp=numerosp+suma+",";
-			suma=0;
+		Para x<-1 Hasta n Hacer
+			Si n MOD x=0 Entonces
+				suma <- suma+x
+			FinSi
+		FinPara
+		Si suma=n Entonces
+			np <- np+1
+			
+			suma <- 0
+		SiNo
+			Si suma=0 Entonces
+			
+			FinSi
 		FinSi
 	FinMientras
+	
+	escribir "numeros perfectos",+numerosp;
 FinAlgoritmo
