@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestDelDoWhile",
+            "request": "launch",
+            "mainClass": "TestDelDoWhile",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ej8",
+            "request": "launch",
+            "mainClass": "Ej8",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Primo",
+            "request": "launch",
+            "mainClass": "Primo",
+            "projectName": "FUNDAMENTOSELI_8509a7d4"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PromedioPositivo",
             "request": "launch",
             "mainClass": "PromedioPositivo",
