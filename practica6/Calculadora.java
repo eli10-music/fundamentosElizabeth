@@ -78,7 +78,7 @@ public class Calculadora {
                          break;
                  case 7: //exponenecial
                  x = solicitarOperando();
-                 y = solicitarOperando();
+                 
                  r = exponente(x);
                         
                  System.out.println("El valor de x es: "+x);

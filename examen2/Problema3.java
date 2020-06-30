@@ -4,7 +4,7 @@ public class Problema3 {
     public static void main( String[] args ) {
         Scanner sc = new Scanner(System.in);
         int op;
-        double x, y, r,s,angulo;
+        double x, y, r;
         
         do{
             System.out.println("\n1.-Suma");
@@ -13,7 +13,7 @@ public class Problema3 {
             System.out.println("4.-División");
             System.out.println("5.-Factorial");
             System.out.println("6.-Combinaciones");
-            System.out.println("7.-Exponente");
+            System.out.println("7.-Exp(x)");
             System.out.println("8.-Sen");
 
             System.out.println("9.-Salir");
@@ -102,7 +102,7 @@ public class Problema3 {
                         System.out.println("Opción no válida");
             }
         
-        }while(op != 8);
+        }while(op != 9);
 
     }
 
@@ -191,13 +191,13 @@ public class Problema3 {
         return r;
     }
     public static double sen( double x ){
-        double r=1,q,w,z,f;
-        for(int i=1;i<=50;i++){
+        double r=0,q,z,w;
+        for(int i=1;i<=200;i++){
             q= Math.pow(-1,i);
-            f=(2*i)+1;
-            w=factorial(f);
-            z=Math.pow(x,f);
-            r=(q/w)*z;
+            
+            w=factorial(2*i+1);
+            z=Math.pow(x,(2*i)+(1));
+            r=((q/w)*(z));
         }
         return r;
 
