@@ -18,7 +18,7 @@ do{
     System.out.println("2.-tipo 2");
     System.out.println("3.-tipo 3");
     System.out.println("4.-tipo 4");
-    System.out.println("5.-salir");
+    System.out.println("5.-salir del sistema");
     
 
    
