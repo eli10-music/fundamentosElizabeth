@@ -7,7 +7,7 @@ Proceso Ejercicio3
 		Escribir '1.-tipo 1';
 		Escribir '2.-tipo 2';
 		Escribir '3.-tipo 3';
-		Escribir '4.-tipo 3';
+		Escribir '4.-tipo 4';
 		Escribir '5.-salir del sistema';
 		Escribir '¿ tipo de tarjeta tiene? si no es 1,2 3,  seleccione la opcion 4';
 		Leer tt;
